@@ -1,0 +1,10 @@
+2026-04-23 09:56:28,501 | INFO    | __main__ | Старт бота. admin_ids=[5913439523], tz=Europe/Moscow
+2026-04-23 09:56:34,323 | INFO    | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-23 09:56:34,324 | INFO    | apscheduler.scheduler | Added job "BroadcastScheduler._tick" to job store "default"
+2026-04-23 09:56:34,327 | INFO    | apscheduler.scheduler | Scheduler started
+2026-04-23 09:56:34,327 | INFO    | scheduler | Планировщик запущен: цикл каждые 240 мин, TZ=Europe/Moscow
+2026-04-23 10:25:19,173 | INFO    | __main__ | Старт бота. admin_ids=[5913439523, 8494931722], tz=Europe/Moscow
+2026-04-23 10:25:19,709 | INFO    | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-23 10:25:19,710 | INFO    | apscheduler.scheduler | Added job "BroadcastScheduler._tick" to job store "default"
+2026-04-23 10:25:19,711 | INFO    | apscheduler.scheduler | Scheduler started
+2026-04-23 10:25:19,711 | INFO    | scheduler | Планировщик запущен: цикл каждые 240 мин, TZ=Europe/Moscow
